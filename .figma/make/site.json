@@ -1,0 +1,10 @@
+{
+  "description": "Helps couples in Galle plan wedding budgets, discover local vendors, and compare personalized recommendations, while giving vendors tools to manage their profiles.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
